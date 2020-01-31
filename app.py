@@ -5,7 +5,7 @@ import html
 import css
 import quotes
 
-font_dir = "/home/avi"
+font_dir = "/home"
 html_dir = os.path.dirname(os.path.realpath(__file__)) + "/FontViewer"
 index_html = html_dir + "/index.html"
 css_file = html_dir + "/fonts.css"
